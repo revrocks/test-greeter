@@ -1,0 +1,17 @@
+GIT
+  remote: https://github.com/revrocks/Greeter
+  revision: 9976e5797c8968ae4f9cadd5b8e14dbe58ee40b8
+  specs:
+    greeter (0.1.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  greeter!
+
+BUNDLED WITH
+   1.16.1
